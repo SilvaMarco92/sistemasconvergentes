@@ -1,0 +1,11 @@
+{
+  "name": "ftp_client",
+  "version": "1.0.0",
+  "description": "FTP Client for Sistemas Convergentes",
+  "main": "ftpclient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silva, Marco",
+  "license": "ISC"
+}
