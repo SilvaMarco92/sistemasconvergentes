@@ -1,0 +1,11 @@
+{
+  "name": "Modulus",
+  "version": "1.0.0",
+  "description": "WebService for Pedidos and Estoque",
+  "main": "estoque_pedidos.js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silva, Marco",
+  "license": "ISC"
+}
